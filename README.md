@@ -3,6 +3,8 @@ Course work associated with the Udemy.com course "Qt Core for Beginners with C++
 
 https://www.udemy.com/course/qt-core-for-beginners/
 
+## Summary
+
 * Section 1: Downloading and installing
 
 * Section 2: Beginning C++
