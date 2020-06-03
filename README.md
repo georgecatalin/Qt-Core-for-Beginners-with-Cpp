@@ -35,4 +35,7 @@ https://www.udemy.com/course/qt-core-for-beginners/
 
 * Section 15: Basic Qt classes
 
-
+### Commits by
+* George Calin 
+* george.calin [at] gmail.com
+* Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
